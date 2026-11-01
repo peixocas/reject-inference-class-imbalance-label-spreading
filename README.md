@@ -2,7 +2,7 @@
 
 Graph-based reject inference with Label Spreading under class imbalance, using LendingClub data. Compares a standard pipeline (random sampling + SMOTE) with a neighborhood-aware one (cluster-stratified sampling + KMeans-SMOTE) across five classifiers.
 
-This repository contains the code and results of the master's thesis **"Machine Learning for Credit Risk Modelling: A Framework Addressing Reject Inference and Class Imbalance"** (NOVA Information Management School, Universidade Nova de Lisboa, 2026), supervised by Professor Afshin Ashofteh.
+This repository contains the code and results of the master's thesis **"Machine Learning for Credit Risk Modelling: A Framework Addressing Reject Inference and Class Imbalance"** (NOVA Information Management School)
 
 ## Overview
 
