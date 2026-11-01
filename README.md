@@ -18,6 +18,9 @@ The framework compares two end-to-end pipelines that are identical except for tw
 | Classifiers | LR, RF, GBDT, XGBoost, MLP | Same |
 | Evaluation | ROC-AUC, PR-AUC, Brier score on a 20% accepted test set, 20 seeds, paired Wilcoxon tests | Same |
 
+## Framework
+<img width="886" height="993" alt="image" src="https://github.com/user-attachments/assets/24dd5a93-af62-4853-ae26-1e2bffe778ff" />
+
 ## Main findings
 
 - NH produces more confident and more differentiated inferred labels for rejected applicants (mean confidence 0.78 vs 0.70 at γ = 2).
