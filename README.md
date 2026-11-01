@@ -19,7 +19,7 @@ The framework compares two end-to-end pipelines that are identical except for tw
 | Evaluation | ROC-AUC, PR-AUC, Brier score on a 20% accepted test set, 20 seeds, paired Wilcoxon tests | Same |
 
 ## Framework
-<img width="886" height="993" alt="image" src="https://github.com/user-attachments/assets/24dd5a93-af62-4853-ae26-1e2bffe778ff" />
+<img width="674" height="253" alt="image" src="https://github.com/user-attachments/assets/c322cece-fc95-455a-a2c4-59987b71d15b" />
 
 ## Main findings
 
